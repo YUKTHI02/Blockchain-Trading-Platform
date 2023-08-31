@@ -1,5 +1,5 @@
 {
-    "name": "next-review",
+    "name": "Blocking-Trading-Platform",
     "private": true,
     "scripts": {
         "build": "next build",

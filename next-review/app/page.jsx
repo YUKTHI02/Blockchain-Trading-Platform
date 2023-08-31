@@ -13,7 +13,8 @@ export default async function HomePage() {
       <br>
       </br>
       <p className="pb-3">
-      A cryptocurrency is a digital currency, which is an alternative form of payment created using encryption algorithms. The use of encryption technologies means that cryptocurrencies function both as a currency and as a virtual accounting system. To use cryptocurrencies, you need a cryptocurrency wallet.
+      Cryptocurrencies are a new paradigm for money. They promise to streamline existing financial architecture to make it faster and cheaper. In addition, their technology and architecture decentralize existing monetary systems and make it possible for transacting parties to exchange value and money independently of intermediary institutions such as banks.
+       The use of encryption technologies means that cryptocurrencies function both as a currency and as a virtual accounting system. To use cryptocurrencies, you need a cryptocurrency wallet.
       </p> <br></br>LIST OF CRYPTOCURRENCIES : <ul> <li>BITCOIN</li>
  <li>TETHER</li>
  <li>XRP</li>

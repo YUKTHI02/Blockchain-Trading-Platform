@@ -1,0 +1,11 @@
+body {
+    font-family: cursive;
+background-image: url("yy.jpg");
+background-color: #cccccc;
+  }
+
+
+
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities
